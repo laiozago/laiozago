@@ -20,7 +20,6 @@
 
 
 [![Laio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laiozago&theme=blue-green)](https://github.com/laiozago/github-readme-stats)
-![Snake animation](https://github.com/laiozago/laiozago/blob/output/github-contribution-grid-snake.svg)
 ---
 ## Como entrar em contato:
 
